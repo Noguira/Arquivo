@@ -1,0 +1,12 @@
+blockquote{
+
+	background-color: #D3DDDA;
+	padding: 16px;
+	border: 1px solid #C2CCCA;
+	width: 750px;
+	margin: 0;
+	box-sizing: border-box;
+	text-align: justify;
+	font-family: "Times New Roman", sans-serif;
+	margin: 20px 0;
+}
